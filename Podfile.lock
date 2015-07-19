@@ -1,0 +1,13 @@
+PODS:
+  - MGSwipeTableCell (1.4.3)
+  - STTwitter (0.2.1)
+
+DEPENDENCIES:
+  - MGSwipeTableCell
+  - STTwitter
+
+SPEC CHECKSUMS:
+  MGSwipeTableCell: cb9805df3cc5cad75ad43a5c1eb424be0316f0bf
+  STTwitter: 7b348a4600eb9f868a3d1c9031b4fd8533d123e7
+
+COCOAPODS: 0.38.0
